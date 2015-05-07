@@ -2,6 +2,8 @@
 
 Debussy is a CSS/Sass standard for keeping your rules readable.
 
+Also see [Amadeus](https://github.com/ajkochanowicz/Amadeus) for CSS Variable specs and [Chopin](https://github.com/ajkochanowicz/Chopin) for CSS selector specs.
+
 ## Example
 
     selector1,
