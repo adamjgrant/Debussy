@@ -26,6 +26,11 @@ Debussy is a CSS/SCSS/Sass standard for keeping your rules readable.
       @media screen and (min-width: 100px) {
         /* Media query for selector1, selector2 */
       }
+      
+      @media screen and (min-width: 200px) {
+        /* Media query for selector1, selector2 */
+        /* This goes below because the screen is bigger. */
+      }
     }
     
     selector1 { /* Selector 1 only rules */
